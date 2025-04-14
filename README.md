@@ -1,5 +1,9 @@
 # Game of Life
 
+<div align="center">
+    <img alt="ollama" src="./docs/Capture1.png">
+</div>
+
 This project is an implementation of Conway's **Game of Life**, a cellular automaton simulation. <br />
 The game runs in a browser using the **Phaser** game framework and React for the UI.
 
